@@ -11,7 +11,7 @@ int main()
     const int WINDOW_HEIGHT = 1000;
     int fps = 0;
     float simulationSpeed = 1;
-    const int CELL_SIZE = 20;
+    const int CELL_SIZE = 15;
     const int MAP_WIDTH = 100;
     const int MAP_HEIGHT = 100;
     int key;
